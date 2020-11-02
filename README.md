@@ -46,3 +46,13 @@ Basic Methods of HashMap:
 •	entrySet() – It is used to return a set view of the hash map.
 •	Size() – It is used to return the size of a map.
 
+3. HashSet
+The class implements the Set Interface, and this permits the null element. Features:
+
+A.	Implements Set Interface.
+
+B.	As it implements the Set Interface, duplicate values are not allowed.
+
+C.	NULL elements are allowed in HS.
+
+D.	Objects that you insert in HashSet are not guaranteed to be inserted in same order. Objects are inserted based on their hash code.
